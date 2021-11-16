@@ -1,7 +1,7 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/evgeny-nadymov/telegram-react",
-  "short_name": "Telegram",
+  "name": "The Imagined Network",
+  "description": "k",
+  "short_name": "Imagined Network",
   "display": "standalone",
   "theme_color": "#000000",
   "gcm_sender_id": "795646555577",
